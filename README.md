@@ -3,7 +3,7 @@
 
 ---
 
-## 🧾 Executive Summary
+## Executive Summary
 
 This project focuses on predictive modeling and risk analysis of stock price trends for six leading companies — AMD, ASUS, Intel, NVIDIA, Microsoft, and Amazon — using historical data ranging from 1980 to 2023.
 
@@ -11,7 +11,7 @@ Utilizing machine learning regressors (Random Forest, HistGradientBoosting), sta
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 * [Executive Summary](#-executive-summary)
 * [Business Objectives](#-business-objectives)
@@ -27,7 +27,7 @@ Utilizing machine learning regressors (Random Forest, HistGradientBoosting), sta
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 * Predict stock prices for AMD, ASUS, Intel, NVIDIA, Amazon, and Microsoft.
 * Evaluate trends and volatility using technical indicators and daily return analysis.
@@ -36,7 +36,7 @@ Utilizing machine learning regressors (Random Forest, HistGradientBoosting), sta
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * Multi-company support: AMD, ASUS, Intel, NVIDIA, Microsoft, Amazon
 * Time-series forecasting using:
@@ -53,7 +53,7 @@ Utilizing machine learning regressors (Random Forest, HistGradientBoosting), sta
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Python
 * pandas, numpy
@@ -64,7 +64,7 @@ Utilizing machine learning regressors (Random Forest, HistGradientBoosting), sta
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 stock-price-prediction/
@@ -81,7 +81,7 @@ stock-price-prediction/
 
 ---
 
-## 📊 Modeling Approach
+## Modeling Approach
 
 * **Preprocessing:** Date formatting, missing value handling, computation of rolling statistics
 * **Feature Engineering:** Technical indicators calculated using basic pandas operations
@@ -94,14 +94,14 @@ stock-price-prediction/
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 * **RMSE (Root Mean Squared Error)** used to evaluate model performance.
 * **Visual comparison** of predicted vs actual closing prices.
 
 ---
 
-## 📤 Forecast Output
+## Forecast Output
 
 Each company includes:
 
@@ -112,7 +112,7 @@ Each company includes:
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 * Built end-to-end ML pipelines for financial time-series
 * Applied ensemble methods and statistical forecasting models
@@ -121,7 +121,7 @@ Each company includes:
 * Enhanced understanding of stock price dynamics
 
 
-## 📂 Dataset Source
+## Dataset Source
 This project uses daily historical stock price data for six major technology companies: Amazon (AMZN), AMD, NVIDIA, ASUS, Intel, and MSI, with records dating back to 1997. 
 
  Sources:
